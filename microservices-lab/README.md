@@ -1,4 +1,4 @@
-# Lab05_CTSE# SE4010 — Microservices Lab (2026)
+# SE4010 — Microservices Lab (2026)
 ## Complete Project Guide | Item · Order · Payment · API Gateway
 
 ---
